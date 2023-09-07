@@ -1,1 +1,2 @@
-commit #2
+## change log
+* added `.gitignore`
